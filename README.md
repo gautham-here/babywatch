@@ -130,23 +130,6 @@ Deployment form factor: compact wall/ceiling node in infant spaces, powered via 
 
 ---
 
-## Project Structure
-
-```
-babywatch/
-├── firmware/
-│ └── babywatch_phase1.ino
-├── simulation/
-│ └── wokwi-diagram.json 
-├── docs/
-│ ├── architecture.png 
-│ ├── flow.png  
-│ └── demo-scenarios.md 
-└── README.md
-```
-
----
-
 ## Testing the implementation in Wokwi - Steps
 
 1. Open the Wokwi project link (or import `wokwi-diagram.json`).
